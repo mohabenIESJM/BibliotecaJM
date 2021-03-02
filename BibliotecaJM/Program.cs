@@ -11,6 +11,7 @@ namespace BibliotecaJM
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// Modificacion Moha
         [STAThread]
         static void Main()
         {
